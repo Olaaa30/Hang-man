@@ -1,0 +1,1 @@
+words = ['man', 'you', 'wonderful']
